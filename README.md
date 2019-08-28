@@ -56,7 +56,6 @@ you need download pretrained bert model (`uncased_L-12_H-768_A-12`)
 6. Run `python train_bert_multi_label.py` to fine tuning bert model.
 7. Run `python inference.py` to predict new data.
 
-## Fine-tuning result
 
 ### training 
 
@@ -67,28 +66,7 @@ training result:
 Epoch: 2 - loss: 0.0338 - val_loss: 0.0373 - val_auc: 0.9922
 ```
 
-### training figure
 
-![]( https://lonepatient-1257945978.cos.ap-chengdu.myqcloud.com/20190214210111.png)
-
-### result
-
-```python
----- train report every label -----
-Label: toxic - auc: 0.9903
-Label: severe_toxic - auc: 0.9913
-Label: obscene - auc: 0.9951
-Label: threat - auc: 0.9898
-Label: insult - auc: 0.9911
-Label: identity_hate - auc: 0.9910
----- valid report every label -----
-Label: toxic - auc: 0.9892
-Label: severe_toxic - auc: 0.9911
-Label: obscene - auc: 0.9945
-Label: threat - auc: 0.9955
-Label: insult - auc: 0.9903
-Label: identity_hate - auc: 0.9927
-```
 
 ## Tips
 
