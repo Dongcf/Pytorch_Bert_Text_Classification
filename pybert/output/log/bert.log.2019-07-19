@@ -1,0 +1,6 @@
+[2019-07-19 04:52:53]: bert train_bert_multi_label.py[line:26] INFO  seed is 2018
+[2019-07-19 04:52:53]: bert train_bert_multi_label.py[line:29] INFO  starting load data from disk
+[2019-07-19 04:52:54]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-19 05:10:11]: bert train_bert_multi_label.py[line:26] INFO  seed is 2018
+[2019-07-19 05:10:11]: bert train_bert_multi_label.py[line:29] INFO  starting load data from disk
+[2019-07-19 05:10:11]: bert data_transformer.py[line:83] INFO  train val split

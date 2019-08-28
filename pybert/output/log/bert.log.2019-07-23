@@ -1,0 +1,94 @@
+[2019-07-22 11:26:54]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 11:26:54]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 11:26:55]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 11:27:58]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 11:27:58]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 11:27:59]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 14:29:20]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 14:29:20]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 14:29:21]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 15:16:44]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 15:16:44]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 15:16:44]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 15:43:42]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 15:43:42]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 15:43:43]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 15:46:00]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 15:46:00]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 15:46:00]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 15:47:16]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 15:47:16]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 15:47:17]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 15:48:45]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 15:48:45]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 15:48:45]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 15:48:46]: bert train_bert_multi_label.py[line:78] INFO  initializing model
+[2019-07-22 15:48:48]: bert train_bert_multi_label.py[line:101] INFO  initializing callbacks
+[2019-07-22 15:48:48]: bert train_bert_multi_label.py[line:119] INFO  training model....
+[2019-07-22 15:48:48]: bert utils.py[line:23] WARNING  Warning: There's no GPU available on this machine, training will be performed on CPU.
+[2019-07-22 15:59:27]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 15:59:27]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 15:59:28]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 15:59:28]: bert train_bert_multi_label.py[line:78] INFO  initializing model
+[2019-07-22 15:59:31]: bert train_bert_multi_label.py[line:101] INFO  initializing callbacks
+[2019-07-22 15:59:31]: bert train_bert_multi_label.py[line:119] INFO  training model....
+[2019-07-22 15:59:31]: bert utils.py[line:23] WARNING  Warning: There's no GPU available on this machine, training will be performed on CPU.
+[2019-07-22 16:16:56]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 16:16:56]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 16:16:56]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 16:21:27]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 16:21:27]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 16:21:27]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 16:23:56]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 16:23:56]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 16:23:56]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 16:25:09]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 16:25:09]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 16:25:10]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 16:25:46]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 16:25:46]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 16:25:46]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 16:26:38]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 16:26:38]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 16:26:39]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 16:27:00]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 16:27:00]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 16:27:00]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 16:29:34]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 16:29:34]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 16:29:35]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 16:30:37]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 16:30:37]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 16:30:38]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 16:32:18]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 16:32:18]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 16:32:18]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 16:37:40]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 16:37:40]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 16:37:40]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 16:37:41]: bert train_bert_multi_label.py[line:78] INFO  initializing model
+[2019-07-22 16:37:44]: bert train_bert_multi_label.py[line:101] INFO  initializing callbacks
+[2019-07-22 16:37:44]: bert train_bert_multi_label.py[line:119] INFO  training model....
+[2019-07-22 16:37:44]: bert utils.py[line:23] WARNING  Warning: There's no GPU available on this machine, training will be performed on CPU.
+[2019-07-22 17:46:21]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 17:46:21]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 17:46:29]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 17:59:43]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 17:59:43]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 17:59:44]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 17:59:44]: bert train_bert_multi_label.py[line:78] INFO  initializing model
+[2019-07-22 17:59:47]: bert train_bert_multi_label.py[line:101] INFO  initializing callbacks
+[2019-07-22 17:59:47]: bert train_bert_multi_label.py[line:119] INFO  training model....
+[2019-07-22 17:59:47]: bert utils.py[line:23] WARNING  Warning: There's no GPU available on this machine, training will be performed on CPU.
+[2019-07-22 18:01:09]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 18:01:09]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 18:01:09]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 18:02:01]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 18:02:01]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 18:02:01]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-22 18:29:51]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-22 18:29:51]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-22 18:29:52]: bert data_transformer.py[line:83] INFO  train val split
+[2019-07-23 14:48:32]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-07-23 14:48:32]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-07-23 14:48:33]: bert data_transformer.py[line:83] INFO  train val split
